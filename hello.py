@@ -7,4 +7,3 @@ for x in range(3):
 def y():
     print "Nice."
     
-y()
